@@ -1,6 +1,7 @@
 # First Interaction
 
 An action for filtering pull requests and issues from first-time contributors.
+ Flow is runs on Docker - Dockerfile - make & Build
 
 # Usage
 
